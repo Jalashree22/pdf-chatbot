@@ -58,5 +58,4 @@ pdf-chatbot/
    ```
    The first run downloads the embedding model (about 90 MB), so it may take a minute.
 
-## Screenshots
-_Add screenshots of the app here._
+
